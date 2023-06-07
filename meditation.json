@@ -34,7 +34,10 @@
     "openAdID":"7f1aaeabeb14682e",
     "interAdID":"394ca20d85458b1a394ca20d85458b1a",
     "interMediationAdID":"394ca20d85458b1a394ca20d85458b1a",
-    "mrecAdId":"fghgfhcfgdfh165vx65"
+    "mrecAdId":"fghgfhcfgdfh165vx65",
+    "googlebannerId":"ca-app-pub-3940256099942544/6300978111",
+    "interstitialId":"ca-app-pub-3940256099942544/1033173712",
+    "nativeId":"ca-app-pub-3940256099942544/2247696110",
   },
   "ads_data": {
     "id": "1",
