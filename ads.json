@@ -57,7 +57,7 @@
     "bannergoogle":"/22405025169,22625071025/com.vibration.sharenewappbyand.Banner",
     "nativegoogle":"/22405025169,22625071025/com.vibration.sharenewappbyand.Native",
     "openadgoogle":"/22405025169,22625071025/com.vibration.sharenewappbyand.AppOpen",
-    "google_ad_show": false,
+    "google_ad_show": true,
     "onlineMrecCount": 5,
     "offlineMrecCount": 5,
     "bannerId":"8cb7acd089752646",
